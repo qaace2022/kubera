@@ -1,0 +1,36 @@
+Task 1
+      
+Convert the do…..While loop into while loop
+
+int=1;
+While (I<6)
+{
+System.out.println(“ I will get printed once for sure!”)
+I++;
+}
+
+
+Task 2
+
+Limitation for each loop
+>Elements can’t retrieve based on the index
+>Transverse of reverse order is not possible
+>Modification of array element values is not possible
+
+Question 1
+
+Double: It is a type floating point It is used for High accuracy of decimal value of 15 digit after the decimal point 
+              Eg:10.897989647830923
+Float:It is the type of Floating point Float data type shows the result accuracy is 7 digit after the decimal point
+              Eg:12.9087654
+
+Question 2 
+                Negative numbers can’t be assigned to char .As char is an unsigned data types
+                 
+Question 3
+                 The output is 22 .a++ is increment the value is 11 and after using the concatenation  ++a also increment the value is 11 so the output is 22
+
+Question 4
+                The output is 9 .it is a unary operator It gives positive of total minus
+Question 5
+                If evaluation of a logical expression exits in between before complete evaluation, then it is known as Short-circuit.A short circuit happens because the result is clear even before the complete evaluation of the expression, and the result is returned.
