@@ -1,6 +1,6 @@
-package com.siriuscom;
+package qaace22training;
 
-public class Exercise1 {
+public class Exerciseone {
 
 	public static void main(String[] args) {
 		int a=10;
